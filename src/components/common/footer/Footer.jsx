@@ -33,9 +33,6 @@ const Footer = () => {
             </a>
           ))}
         </div>
-        <p className="text-[12px] sm:text-[16px]">
-          Copyright &copy; {copyrightYear} Picto.
-        </p>
       </div>
       
     </div>
