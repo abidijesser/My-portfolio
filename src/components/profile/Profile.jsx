@@ -38,15 +38,14 @@ const Profile = () => {
           <div
             className={`text-xs xs:text-[16px] lg:text-lg font-normal max-md:text-center text-gray-600`}
           >
-            <p className={``}>
-              I design and develop services for customers specializing creating
-              stylish, modern websites, web services and online stores. My
-              passion is to design digital user experiences.
-            </p>
-            <p className="mt-3">
-              I design and develop services for customers specializing creating
-              stylish, modern websites, web services.
-            </p>
+            <p>
+  I help clients build their online presence with clear design and functional development.
+</p>
+<p className="mt-3">
+  I create modern, reliable websites that turn ideas into smooth, easy-to-use experiences with great design and performance.
+</p>
+
+
           </div>
           {/* <div className="mt-8 flex max-md:justify-center">
             <a
